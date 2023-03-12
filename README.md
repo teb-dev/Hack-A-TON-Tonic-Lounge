@@ -11,12 +11,12 @@ Tonic Wallet is a user-friendly TON wallet supporting unique features such as mu
 
 Tonic Lounge aims to attract not only cryptonative users, but also general Telegram users who want to build and find exclusive communities that resonate with their identity.
 
-###Problem
+##Problem
 It is human nature for one to be inclined to form and belong to communities, because we like to get along with people we can associate with, in order to reaffirm and further develop our identities. And for such communities to thrive, it is beneficial to ensure the group is truly made up of people with common interest, experience, goal, or values.
 
 In the case of modern online communities, it is a challenge to precisely categorize and organize members. There needs a mean to trustlessly and objectively verify members on whether they possess similar level of interest, contribution, and motives. And it needs to be done as anonymously and conveniently as possible.
 
-###Solution
+##Solution
 If users store their identity on TON through tokens and wallets, and utilize it to build and find communities, it can be the solution for securing anonymity and exclusivity in communities. DID through tokens have been a core feature of blockchain, though it has yet to be fully explored on TON.
 
 Tonic Lounge is a social platform that provides a DID solution to communities in better discovering, verifying, and curating their members, through the following core features:
@@ -27,7 +27,7 @@ Lounge Pass - NFT or SBT that can be minted and claimable for whitelisted ad dre
 
 Lounge will allow users to easily find exclusive communities with people of common interest, experience, or values through tokens stored on their TON wallet. Lounge Pass will allow users to create new communities through their newly minted Passes.
 
-###Use Case
+##Use Case
 To exemplify how Tonic Lounge can empower your identity by allowing you to create or find your community through Jettons/NFT/SBTs, 5 lounges have been made for our MVP.
 
 User’s Tonic Wallet balances are checked if they satisfy the conditions to join these lounges.
